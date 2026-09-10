@@ -8,3 +8,8 @@ if (authenticate(username, password)) {
 } else {
   app.innerHTML = "<h1>Access Denied</h1>";
 }
+baddmashi;
+
+function divide(a, b) {
+  return a / b; // Bug: No check for division by zero!
+}
