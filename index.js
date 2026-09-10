@@ -13,3 +13,9 @@ baddmashi;
 function divide(a, b) {
   return a / b; // Bug: No check for division by zero!
 }
+
+function divide(a, b) {
+  return a / b; // Bug: No check for division by zero!
+}
+
+laadle;
