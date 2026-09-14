@@ -11,4 +11,3 @@ function login(username, password) {
 
 module.exports = login;
 
-console.log("Testing my here new AI rules!");
