@@ -33,4 +33,3 @@ console.log("Testing my new AI rules!");
 
 
   console.log("Testing my new AI rules!");
-sorry;
