@@ -28,16 +28,4 @@ laadle
 laadle;
 again agin and agin and agin
 
-laadle 
-
-;
-again agin and agin and agin
-
-laadle 
-hello
-this is the mongodb connnection test
-this is the mongodb connnection test
-
-git add.
-git commit - m ""
-git push origin main
+console.log("Testing my new AI rules!");
